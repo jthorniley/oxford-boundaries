@@ -67,7 +67,7 @@ function App() {
   return (
     <>
       <main className="app">
-        (tt && <section style={{display: "none"}}>{ tt }</section>)
+        {tt && <section style={{display: "none"}}>{ tt }</section>}
         <section id="map" ref={mapRef}></section>
       </main >
     </>
