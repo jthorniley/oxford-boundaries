@@ -1,0 +1,709 @@
+{
+  "Barton & Sandhills": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 402,
+        "elected": false
+      },
+      {
+        "party": "IND",
+        "votes": 173,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 454,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 118,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 119,
+        "elected": false
+      }
+    ]
+  },
+  "Blackbird Leys": {
+    "candidates": [
+      {
+        "party": "LAB",
+        "votes": 411,
+        "elected": true
+      },
+      {
+        "party": "TUSC",
+        "votes": 52,
+        "elected": false
+      },
+      {
+        "party": "IND",
+        "votes": 369,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 72,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 41,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 40,
+        "elected": false
+      },
+      {
+        "party": "IND",
+        "votes": 340,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 53,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 423,
+        "elected": true
+      },
+      {
+        "party": "GRN",
+        "votes": 43,
+        "elected": false
+      }
+    ]
+  },
+  "Carfax & Jericho": {
+    "candidates": [
+      
+      {
+        "party": "LAB",
+        "votes": 689,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 92,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 113,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 323,
+        "elected": false
+      }
+    ]
+  },
+  "Churchill": {
+    "candidates": [
+      {
+        "party": "CON",
+        "votes": 188,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 97,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 572,
+        "elected": true
+      },
+      {
+        "party": "TUSC",
+        "votes": 111,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 145,
+        "elected": false
+      }
+    ]
+  },
+  "Cowley": {
+    "candidates": [
+      {
+        "party": "GRN",
+        "votes": 113,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 30,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 614,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 64,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 484,
+        "elected": false
+      },
+      {
+        "party": "IOA",
+        "votes": 842,
+        "elected": true
+      }
+    ]
+  },
+  "Cutteslowe & Sunnymead": {
+    "candidates": [
+      {
+        "party": "GRN",
+        "votes": 247,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 834,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 397,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 515,
+        "elected": false
+      }
+    ]
+  },
+  "Donnington": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 414,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 72,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 34,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 22,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 536,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 701,
+        "elected": true
+      }
+    ]
+  },
+  "Headington": {
+    "candidates": [
+      {
+        "party": "LD",
+        "votes": 847,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 67,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 163,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 485,
+        "elected": false
+      },
+      {
+        "party": "IND",
+        "votes": 577,
+        "elected": false
+      }
+    ]
+  },
+  "Headington Hill & Northway": {
+    "candidates": [
+      {
+        "party": "LAB",
+        "votes": 653,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 205,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 216,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 141,
+        "elected": false
+      }
+    ]
+  },
+  "Hinksey Park": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 391,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 59,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 917,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 95,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 337,
+        "elected": false
+      }
+    ]
+  },
+  "Holywell": {
+    "candidates": [
+      {
+        "party": "LAB",
+        "votes": 372,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 98,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 452,
+        "elected": true
+      },
+      {
+        "party": "IND",
+        "votes": 59,
+        "elected": false
+      }
+    ]
+  },
+  "Littlemore": {
+    "candidates": [
+      {
+        "party": "GRN",
+        "votes": 98,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 32,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 730,
+        "elected": false
+      },
+      {
+        "party": "IOA",
+        "votes": 814,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 50,
+        "elected": false
+      }
+    ]
+  },
+  "Lye Valley": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 654,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes":47,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 593,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 70,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 120,
+        "elected": false
+      }
+    ]
+  },
+  "Marston": {
+    "candidates": [
+      {
+        "party": "LAB",
+        "votes": 868,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 288,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 69,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 718,
+        "elected": false
+      }
+    ]
+  },
+  "Northfield Brook": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 385,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 23,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 37,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 68,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 392,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 68,
+        "elected": false
+      }
+    ]
+  },
+  "Osney & St Thomas": {
+    "candidates": [
+      {
+        "party": "GRN",
+        "votes": 567,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 901,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 100,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 85,
+        "elected": false
+      }
+    ]
+  },
+  "Quarry & Risinghurst": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 512,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 868,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 105,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 861,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 153,
+        "elected": false
+      }
+    ]
+  },
+  "Rose Hill & Iffley": {
+    "candidates": [
+      {
+        "party": "IOA",
+        "votes": 870,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 61,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 56,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 814,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 14,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 159,
+        "elected": false
+      }
+    ]
+  },
+  "St Clement's": {
+    "candidates": [
+      {
+        "party": "TUSC",
+        "votes": 25,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 62,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 475,
+        "elected": false
+      },
+      {
+        "party": "IOA",
+        "votes": 507,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 524,
+        "elected": true
+      }
+    ]
+  },
+  "St Mary's": {
+    "candidates": [
+      {
+        "party": "GRN",
+        "votes": 890,
+        "elected": true
+      },
+      {
+        "party": "LAB",
+        "votes": 518,
+        "elected": false
+      },
+      {
+        "party": "TUSC",
+        "votes": 22,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 28,
+        "elected": false
+      },
+      {
+        "party": "IOA",
+        "votes": 409,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 43,
+        "elected": false
+      }
+    ]
+  },
+  "Summertown": {
+    "candidates": [
+      {
+        "party": "LD",
+        "votes": 662,
+        "elected": true
+      },
+      {
+        "party": "CON",
+        "votes": 278,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 589,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 201,
+        "elected": false
+      }
+    ]
+  },
+  "Temple Cowley": {
+    "candidates": [
+      {
+        "party": "IND",
+        "votes": 888,
+        "elected": true
+      },
+      {
+        "party": "LD",
+        "votes": 71,
+        "elected": false
+      },
+      {
+        "party": "WPB",
+        "votes": 31,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 657,
+        "elected": false
+      },
+      {
+        "party": "GRN",
+        "votes": 129,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 52,
+        "elected": false
+      }
+    ]
+  },
+  "Walton Manor": {
+    "candidates": [
+      {
+        "party": "LAB",
+        "votes": 837,
+        "elected": true
+      },
+      {
+        "party": "GRN",
+        "votes": 232,
+        "elected": false
+      },
+      {
+        "party": "CON",
+        "votes": 131,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 246,
+        "elected": false
+      }
+    ]
+  },
+  "Wolvercote": {
+    "candidates": [
+      {
+        "party": "CON",
+        "votes": 276,
+        "elected": false
+      },
+      {
+        "party": "LD",
+        "votes": 839,
+        "elected": true
+      },
+      {
+        "party": "GRN",
+        "votes": 171,
+        "elected": false
+      },
+      {
+        "party": "LAB",
+        "votes": 383,
+        "elected": false
+      }
+    ]
+  }
+}
