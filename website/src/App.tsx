@@ -56,7 +56,7 @@ function App() {
   return (
     <>
       <main className="app">
-        {wardTooltips}
+        <section style={{display: "none"}}>{ wardTooltips }</section>
         <section id="map" ref={mapRef}></section>
       </main >
     </>
